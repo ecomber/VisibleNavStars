@@ -1,0 +1,39 @@
+Sextant height: +37°00.00′
+Navigation Stars between Alt 20° and 50°, visible at Lat:51.00 Lon:-0.50, at 2026-03-11 11:12:27 UTC
+GST = GHA of Aires 337.24° +337°14.60′ 22h 28m 58s
+LST at Long -0.50: 336.74° +336°44.60′ 22h 26m 58s
+
+By Magnitude:
+Vega           Az:276°  Mag:+0.03  +48°45.42′ +11°45.42′  
+Capella        Az:050°  Mag:+0.08  +27°29.79′  -9°30.21′  
+Altair         Az:231°  Mag:+0.77  +37°16.02′  +0°16.02′  *
+Alioth         Az:339°  Mag:+1.76  +21°08.50′ -15°51.50′  
+Dubhe          Az:355°  Mag:+1.79  +22°52.27′ -14°07.73′  
+Mirfak         Az:061°  Mag:+1.79  +44°31.11′  +7°31.11′  
+Hamal          Az:101°  Mag:+2.00  +39°40.26′  +2°40.26′  
+Kochab         Az:340°  Mag:+2.07  +42°34.87′  +5°34.87′  
+Rasalhague     Az:265°  Mag:+2.07  +20°33.48′ -16°26.52′  
+Eltanin        Az:298°  Mag:+2.24  +49°18.96′ +12°18.96′  
+Enif           Az:195°  Mag:+2.40  +48°06.57′ +11°06.57′  
+
+
+By Azimuth:
+Capella        Az:050°  Mag:+0.08  +27°29.79′  -9°30.21′  
+Mirfak         Az:061°  Mag:+1.79  +44°31.11′  +7°31.11′  
+Hamal          Az:101°  Mag:+2.00  +39°40.26′  +2°40.26′  
+Enif           Az:195°  Mag:+2.40  +48°06.57′ +11°06.57′  
+Altair         Az:231°  Mag:+0.77  +37°16.02′  +0°16.02′  *
+Rasalhague     Az:265°  Mag:+2.07  +20°33.48′ -16°26.52′  
+Vega           Az:276°  Mag:+0.03  +48°45.42′ +11°45.42′  
+Eltanin        Az:298°  Mag:+2.24  +49°18.96′ +12°18.96′  
+Alioth         Az:339°  Mag:+1.76  +21°08.50′ -15°51.50′  
+Kochab         Az:340°  Mag:+2.07  +42°34.87′  +5°34.87′  
+Dubhe          Az:355°  Mag:+1.79  +22°52.27′ -14°07.73′  
+
+Likely candidates:
+Altair         Az:231°  Mag:+0.77  +37°16.02′  +0°16.02′  *
+  Azimuth               231 °
+  Intercept(Away)     16.02 nm
+  Intercept           16.02 nm Away
+  LoP                   321 °
+

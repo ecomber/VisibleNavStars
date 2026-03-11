@@ -19,7 +19,7 @@ def is_between(t, start, end):
 
 
 if __name__ == '__main__':
-    HoFromSextant = 30
+    HoFromSextant = 37
     MaxIntercept = 1 # degrees !!
     print(f'Sextant height: {AstroCalcs.deg_to_dm(HoFromSextant)}')
     localLat = 51  # Horta or near enough
